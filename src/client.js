@@ -4,4 +4,4 @@ export default sanityClient({
     projectId: "mzvngayi",
     dataset: "production",
     useCdn: true,
-})
+});
